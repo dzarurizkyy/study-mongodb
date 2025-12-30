@@ -1,6 +1,5 @@
-# Study MongoDB 🍃
-
-This repository contains a comprehensive guide for MongoDB. It covers installation, CRUD operations, query operators, indexing, data modeling, security, backup & restore, and practical scenarios to strengthen your MongoDB skills.
+# 🍃 MongoDB NoSQL – Complete Guide
+A comprehensive guide for learning MongoDB, a popular NoSQL database for modern applications.
 
 ---
 
