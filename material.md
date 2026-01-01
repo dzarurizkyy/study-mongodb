@@ -1,4 +1,4 @@
-# 🍃 MongoDB NoSQL – Complete Guide
+# 🍃 Database MongoDB – Complete Guide
 A comprehensive guide for learning MongoDB, a popular NoSQL database for modern applications.
 
 ---
