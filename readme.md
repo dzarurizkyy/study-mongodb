@@ -1,6 +1,6 @@
 # Study MongoDB 🍃
 
-This repository contains a comprehensive reference guide for MongoDB — covering the fundamentals (databases, collections, documents, BSON types), data modeling with embedded documents and references, the full CRUD surface and its query operators, indexing strategies from single-field to text and TTL, access control with users and custom roles, and backup & restore with the official database tools.
+A comprehensive MongoDB reference guide covering core fundamentals, data modeling, CRUD, indexing, access control, and backup & restore tools.
 
 ## Installation 🔧
 
@@ -33,7 +33,7 @@ This repository contains a comprehensive reference guide for MongoDB — coverin
 
 - 🍃 **[MongoDB Basics](001-mongodb-basics.md)**
 
-  Databases, collections, and data modeling worked hands-on in `mongosh` — through to the whole document lifecycle: inserts, queries and their operators, updates, deletes, bulk writes, indexes, access control, and backup & restore:
+   Hands-on mongosh guide covering data modeling, full document lifecycle (CRUD & bulk writes), indexing, security, and backup/restore.
 
   ```javascript
   // Index the fields the query filters and sorts on
