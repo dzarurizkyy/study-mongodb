@@ -33,7 +33,7 @@ A comprehensive MongoDB reference guide covering core fundamentals, data modelin
 
 - 🍃 **[MongoDB Basics](001-mongodb-basics.md)**
 
-   Hands-on mongosh guide covering data modeling, full document lifecycle (CRUD & bulk writes), indexing, security, and backup/restore.
+   Hands-on `mongosh` guide covering data modeling, full document lifecycle (CRUD & bulk writes), indexing, security, and backup/restore.
 
   ```javascript
   // Index the fields the query filters and sorts on
